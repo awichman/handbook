@@ -145,8 +145,11 @@ navigation:
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
-  - text: History and values
+  - text: 18F History and values
     url: history-and-values/
+    internal: true
+  - text: OPP History
+    url: opp-history/
     internal: true
   - text: Mentorship
     url: mentorship/
@@ -163,6 +166,9 @@ navigation:
   - text: 18F org chart
     url: org-chart/
     internal: true
+  - text: OPP org chart
+    url: opp-org-chart/
+    internal: true 
   - text: TTS archived emails
     url: https://goo.gl/PxRVa8
     internal: false
@@ -202,6 +208,9 @@ navigation:
       internal: true
     - text: Infrastructure
       url: infrastructure/
+      internal: true
+    - text: Office of Products and Programs (OPP)
+      url: office-of-products-and-programs/
       internal: true
     - text: Ops
       url: ops/
